@@ -12,7 +12,7 @@ const chatId = process.env.TELEGRAM_GROUP_ID;
 const bot = new TelegramBot(token, { polling: true });
 
 // Pesan harian yang akan dikirim
-const dailyMessage = ```Daily Testnet
+const dailyMessage = `Daily Testnet
 Blockscout: https://t.me/CryptoKidzs/57
 PlazaFinance: https://t.me/CryptoKidzs/42
 Fiamma: https://t.me/CryptoKidzs/55
@@ -23,7 +23,7 @@ Palldium: https://t.me/CryptoKidzs/158
 Weekly Testnet
 Variational: https://t.me/CryptoKidzs/53
 Intmax: https://t.me/CryptoKidzs/123
-Polyhedra: https://t.me/CryptoKidzs/68```;
+Polyhedra: https://t.me/CryptoKidzs/68`;
 
 // Jadwal pengiriman pesan setiap hari pukul 08:00
 schedule.scheduleJob('5 0 * * *', () => {
