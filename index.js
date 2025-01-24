@@ -26,7 +26,7 @@ Intmax: https://t.me/CryptoKidzs/123
 Polyhedra: https://t.me/CryptoKidzs/68```;
 
 // Jadwal pengiriman pesan setiap hari pukul 08:00
-schedule.scheduleJob('58 14 * * *', () => {
+schedule.scheduleJob('5 0 * * *', () => {
     bot.sendMessage(chatId, dailyMessage)
         .then(() => console.log('Pesan harian terkirim!'))
         .catch((err) => console.error('Gagal mengirim pesan:', err));
