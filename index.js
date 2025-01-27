@@ -24,7 +24,8 @@ const dailyMessage = `<b>Daily Testnet</b>\n
 🔹 <a href="https://t.me/CryptoKidzs/53">Variational</a>\n
 🔹 <a href="https://t.me/CryptoKidzs/123">Intmax</a>\n
 🔹 <a href="https://t.me/CryptoKidzs/68">Polyhedra</a>\n
-🔹 <a href="https://t.me/CryptoKidzs/263">Zeromile<a>\n
+🔹 <a href="https://t.me/CryptoKidzs/263">Zeromile</a>\n
+🔹 <a href="https://t.me/CryptoKidzs/266">Odysphere</a>\n
 Akan Diupdate Kalo Gak Malas`;
 
 // Fungsi untuk mengirim pesan harian dengan parse_mode HTML
