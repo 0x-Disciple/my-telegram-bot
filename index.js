@@ -29,11 +29,11 @@ const dailyMessage = `<b>Daily Testnet</b>\n
 
 <b>Daily Claim Monad</b>\n
 🔹 <a href="https://t.me/CryptoKidzs/467">Dusted</a>\n
-🔹 <a href="https://t.me/CryptoKidzs/478">Zaros<a/>\n
-🔹 <a href="https://t.me/CryptoKidzs/479">Kizzy<a/>\n
-🔹 <a href="https://t.me/CryptoKidzs/480">MetaLeap<a/>\n
-🔹 <a href="https://t.me/CryptoKidzs/481">The Vape Labs<a/>\n
-🔹 <a href="https://t.me/CryptoKidzs/482">RedBrick<a/>\n
+🔹 <a href="https://t.me/CryptoKidzs/478">Zaros</a>\n
+🔹 <a href="https://t.me/CryptoKidzs/479">Kizzy</a>\n
+🔹 <a href="https://t.me/CryptoKidzs/480">MetaLeap</a>\n
+🔹 <a href="https://t.me/CryptoKidzs/481">The Vape Labs</a>\n
+🔹 <a href="https://t.me/CryptoKidzs/482">RedBrick</a>\n
 Akan Diupdate Kalo Gak Malas`;
 
 // Fungsi untuk mengirim pesan harian dengan parse_mode HTML
